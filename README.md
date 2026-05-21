@@ -1,5 +1,7 @@
-# Python Starter
+# Trabalho de Python - Projeto de Bloco
 
-Quickly get started with [Python](https://www.python.org/) using this starter! 
+### O programa utiliza um while True na função main()
 
-- If you want to upgrade Python, you can change the image in the [Dockerfile](./.devcontainer/Dockerfile).
+### Foi criada a lista tarefas que gerencia e guarda um conjunto de dicionários
+
+### Foram separadas e criadas funções para adicionar, listar, concluir e remover, em vez de realizar a lógica diretamente dentro do menu
